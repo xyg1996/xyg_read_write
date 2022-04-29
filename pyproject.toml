@@ -12,6 +12,8 @@ doc = [
     "sphinx~=4.2.0",
     "myst_parser",
     "nbsphinx",
-    "sphinx_rtd_theme~=1.0.0",
-    "jieba"
+    "sphinx-theme",
+    "jieba",
+    "sphinxcontrib-plantuml",
+    "sphinxcontrib-mermaid"
 ]
