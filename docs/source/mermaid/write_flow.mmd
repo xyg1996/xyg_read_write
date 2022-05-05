@@ -1,0 +1,9 @@
+graph LR
+A[git 下载项目] -->B[pip install依赖] -->C[撰写Markdown]
+--> D{是否本地预览}
+    D -->|是| E[sphinx-autobuild启动本地web服务并自动更新]
+    D -->|否| F[make html]
+    E -->G[git push更新至github]
+    F -->G
+    G -->H[同步至read the docs并build]
+

@@ -15,5 +15,6 @@ doc = [
     "sphinx-theme",
     "jieba",
     "sphinxcontrib-plantuml",
-    "sphinxcontrib-mermaid"
+    "sphinxcontrib-mermaid",
+    "sphinx-autobuild"
 ]
