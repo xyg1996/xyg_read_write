@@ -23,6 +23,5 @@
 :maxdepth: 3
 
 quick_start
-%usage
 
 ```
