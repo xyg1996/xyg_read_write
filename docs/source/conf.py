@@ -107,3 +107,5 @@ latex_use_xindy = False
 latex_elements = {
     'preamble': '\\usepackage[UTF8]{ctex}\n',
 }
+
+html_logo = "logo.jpg"

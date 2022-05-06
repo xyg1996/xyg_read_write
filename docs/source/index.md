@@ -7,10 +7,9 @@
 %:relative-images:
 %```
 
-# simforge documentation
-欢迎使用  “神工坊”  高性能仿真平台用户门户手册。本手册提供的信息可以帮助您快速了解  “神工坊”  高性能仿真平台用户门户，并能够指导您开始使用  “神工坊”  高性能仿真平台用户门户。
+# xyg的阅读与记录
+这里是xyg的阅读与记录
 
-{ref}`快速上手示例`
 
 %Check out {doc}`/usage` for further information,
 %and {ref}`Installation` for installation instructions.
@@ -24,6 +23,5 @@
 :maxdepth: 3
 
 quick_start
-%usage
 
 ```
