@@ -9,7 +9,7 @@
       Alice->John: Hello John, how are you?
 ``` -->
 <!-- ![总体流程图](mermaid/write_flow.svg) -->
-
+![](logo.jpg)
 <!-- ![](images/uml/test.png) -->
 - 下载项目
 ```bash
