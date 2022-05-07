@@ -9,8 +9,9 @@
       Alice->John: Hello John, how are you?
 ``` -->
 <!-- ![总体流程图](mermaid/write_flow.svg) -->
-![](logo.jpg)
+<!-- ![](logo.jpg) -->
 <!-- ![](images/uml/test.png) -->
+![](mermaid/write_flow.png)
 - 下载项目
 ```bash
 git clone git@github.com:xyg1996/xyg_read_write.git
