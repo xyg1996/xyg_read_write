@@ -8,7 +8,7 @@
       participant Bob
       Alice->John: Hello John, how are you?
 ``` -->
-![总体流程图](mermaid/write_flow.svg)
+<!-- ![总体流程图](mermaid/write_flow.svg) -->
 
 <!-- ![](images/uml/test.png) -->
 - 下载项目
